@@ -7,5 +7,3 @@ AWS Common Services
 1. RDS - Relational Database Service
 1. S3 - Simple Storage service
 1. Cloud Watch
-
-<!-- > Note: The application server port number is **8080** -->
